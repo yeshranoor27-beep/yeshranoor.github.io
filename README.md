@@ -29,7 +29,7 @@ Presentation Design, Virtual Communication (Email, Chat, Video), Team Collaborat
 - Implemented database connectivity for efficient data storage and retrieval  
 - Designed user-friendly interfaces for administrative tasks  
 
-🔗 View Project  
+ 
 
 ---
 
@@ -40,7 +40,7 @@ Presentation Design, Virtual Communication (Email, Chat, Video), Team Collaborat
 - Integrated sensors with microcontroller for real-time data processing  
 - Demonstrated practical application of embedded systems and logic design  
 
-🔗 View Project  
+  
 
 ---
 
@@ -50,8 +50,7 @@ Presentation Design, Virtual Communication (Email, Chat, Video), Team Collaborat
 - Designed a visually appealing travel-themed magazine layout  
 - Focused on typography, alignment, and user engagement  
 - Showcased creativity and design thinking skills  
-
-🔗 View Project  
+  
 
 ---
 
