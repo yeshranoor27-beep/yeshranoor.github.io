@@ -82,7 +82,7 @@ Fatima Jinnah Women University, Rawalpindi
 📍 Location: Rawalpindi, Pakistan  
 
 💼 LinkedIn:https://www.linkedin.com/in/yashra-noor-9428782b6
-🐙 GitHub:yeshranoor27-beep/yeshranoor.github.i
+🐙 GitHub: yeshranoor27-beep/yeshranoor.github.io
 
 ---
 
