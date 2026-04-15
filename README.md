@@ -81,8 +81,8 @@ Fatima Jinnah Women University, Rawalpindi
 📧 Email: yeshranoor27@gmail.com  
 📍 Location: Rawalpindi, Pakistan  
 
-💼 LinkedIn: [https://www.linkedin.com/in/yashra-noor-9428782b6?](url)
-🐙 GitHub:[yeshranoor27-beep/yeshranoor.github.io](url)
+💼 LinkedIn:https://www.linkedin.com/in/yashra-noor-9428782b6
+🐙 GitHub:yeshranoor27-beep/yeshranoor.github.i
 
 ---
 
